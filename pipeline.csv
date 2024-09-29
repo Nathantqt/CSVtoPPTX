@@ -1,0 +1,21 @@
+﻿Equipe;Product Type;Description;Location;Client;Type Client;Expected CC;Notionnal;Statut;Probability
+Mathieu Palu;CLN;CLN 4Y AirLiquide;London;SG;Bank;40.000;1.000.000;Waiting their feedback;High
+Mathieu Palu;Repack;Repack 3Y Total;Paris;BNP;Fund;60.000;2.000.000;Client reviewing;Medium
+Mathieu Palu;Swap;Swap 5Y EDF;Frankfurt;HSBC;Corporate;50.000;3.000.000;Terms under negotiation;Low
+Mathieu Palu;CLN;CLN 2Y Sanofi;London;JPM;Bank;35.000;1.500.000;Signed;High
+Mathieu Palu;Repack;Repack 7Y Volkswagen;New York;Citi;Fund;70.000;4.000.000;Awaiting documentation;Medium
+Sophie Martin;CLN;CLN 3Y Airbus;Paris;SocGen;Bank;45.000;1.200.000;Pending approval;High
+Sophie Martin;Swap;Swap 6Y BASF;Frankfurt;Deutsche Bank;Corporate;55.000;2.800.000;Negotiating terms;Low
+Sophie Martin;Repack;Repack 5Y Siemens;Munich;Commerzbank;Fund;65.000;2.500.000;Client reviewing;Medium
+Sophie Martin;CLN;CLN 4Y Renault;Paris;BNP;Bank;48.000;1.750.000;Signed;High
+Sophie Martin;Swap;Swap 3Y Daimler;Frankfurt;HSBC;Corporate;42.000;2.000.000;Awaiting feedback;Medium
+Julien Dupont;Repack;Repack 5Y Allianz;London;UBS;Fund;70.000;3.200.000;Pending confirmation;Medium
+Julien Dupont;CLN;CLN 6Y Volkswagen;New York;Goldman Sachs;Bank;38.000;1.800.000;Waiting their feedback;Low
+Julien Dupont;Swap;Swap 4Y BMW;Frankfurt;Barclays;Corporate;46.000;2.500.000;Client reviewing;Low
+Julien Dupont;Repack;Repack 8Y Deutsche Telekom;Berlin;Credit Suisse;Fund;60.000;3.500.000;Negotiating terms;Medium
+Julien Dupont;CLN;CLN 3Y Bayer;Munich;Deutsche Bank;Bank;52.000;1.900.000;Signed;High
+Claire Bernard;CLN;CLN 2Y LVMH;Paris;Citi;Bank;40.000;1.600.000;Client reviewing;High
+Claire Bernard;Swap;Swap 7Y Orange;London;HSBC;Corporate;65.000;2.900.000;Negotiating terms;Low
+Claire Bernard;Repack;Repack 6Y Nestle;Geneva;UBS;Fund;55.000;3.100.000;Awaiting documentation;Medium
+Claire Bernard;CLN;CLN 5Y Novartis;Zurich;Credit Suisse;Bank;43.000;2.200.000;Signed;High
+Claire Bernard;Swap;Swap 4Y Adidas;Frankfurt;Deutsche Bank;Corporate;50.000;2.700.000;Pending feedback;Medium
